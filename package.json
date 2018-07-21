@@ -1,0 +1,26 @@
+{
+  "name": "rekeningku-express-microservice",
+  "version": "1.0.0",
+  "description": "rekeningku express microservice boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon starter.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rekeningku",
+    "express",
+    "microservice",
+    "boilerplate"
+  ],
+  "author": "radiegtya",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
+  }
+}
