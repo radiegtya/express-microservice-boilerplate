@@ -1,6 +1,6 @@
 {
-  "name": "rekeningku-express-microservice",
-  "version": "1.0.0",
+  "name": "express-microservice-boilerplate",
+  "version": "0.0.1",
   "description": "rekeningku express microservice boilerplate",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "rekeningku",
     "express",
     "microservice",
     "boilerplate"
