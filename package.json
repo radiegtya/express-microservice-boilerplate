@@ -1,7 +1,7 @@
 {
-  "name": "express-microservice-boilerplate",
+  "name": "micro-express",
   "version": "0.0.1",
-  "description": "rekeningku express microservice boilerplate",
+  "description": "express microservice boilerplate",
   "main": "index.js",
   "scripts": {
     "start": "nodemon starter.js",
