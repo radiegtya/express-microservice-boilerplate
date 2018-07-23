@@ -1,6 +1,6 @@
-# Express Microservice Boilerplate
+# Micro Express
 
-This Boilerplate are made to quickly developing an event driven microservice app using Express Js. This boilerplate might be not the best microservice implementation out there, but we hope any developer could get started fast, and got basic understanding about how to implement microservice using Express Js.
+Micro Express is a Boilerplate to quickly developing an event driven microservice app using Express Js. This boilerplate might be not the best microservice implementation out there, but we hope any developer could get started fast, and got basic understanding about how to implement microservice using Express Js.
 
 ## Installation
 
