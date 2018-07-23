@@ -1,5 +1,4 @@
 import { knex } from '../config'
-import axios from 'axios'
 
 export default class Controllers {
 
